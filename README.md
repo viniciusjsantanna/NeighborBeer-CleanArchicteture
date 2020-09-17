@@ -1,7 +1,7 @@
 # NeighborBeer-CleanArchicteture
 Project from my studies about clean architeture using MediatR and FluentValidation
 
-NeighborBeer
+# NeighborBeer
 
   -Application
   -Domain
@@ -38,7 +38,7 @@ NeighborBeer
       -WebAPI
       
       
-About:
+# About:
 
   Application:
     
