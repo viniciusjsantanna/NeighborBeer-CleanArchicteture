@@ -1,0 +1,12 @@
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\bin\Debug\netcoreapp3.1\NeighborBeer.Application.deps.json
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\bin\Debug\netcoreapp3.1\NeighborBeer.Application.dll
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\bin\Debug\netcoreapp3.1\NeighborBeer.Application.pdb
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\bin\Debug\netcoreapp3.1\NeighborBeer.Domain.dll
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\bin\Debug\netcoreapp3.1\NeighborBeer.Domain.pdb
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.csprojAssemblyReference.cache
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.AssemblyInfoInputs.cache
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.AssemblyInfo.cs
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.csproj.CopyComplete
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.dll
+C:\Users\vinicius.santana\source\repos\NeighborBeer\NeighborBeer.Application\obj\Debug\netcoreapp3.1\NeighborBeer.Application.pdb
