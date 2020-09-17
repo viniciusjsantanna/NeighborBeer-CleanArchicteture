@@ -1,4 +1,4 @@
-# NeighborBeer-CleanArchicteture
+# NeighborBeer-CleanArchitecture
 Project from my studies about clean architeture using MediatR and FluentValidation
 
 # Structure
@@ -36,7 +36,7 @@ Project from my studies about clean architeture using MediatR and FluentValidati
 
   Application:
     
-      Automaper -> **Mapper entity to Data Transfer Object and/or Commands and Queries**
+      Automaper -> ** Mapper entity to Data Transfer Object and/or Commands and Queries **
       Commands ->
       DependencyInjection ->
       DTOs ->
