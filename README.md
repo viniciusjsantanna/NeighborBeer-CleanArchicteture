@@ -36,7 +36,7 @@ Project from my studies about clean architeture using MediatR and FluentValidati
 
   Application:
     
-      Automaper -> Mapper entity to Data Transfer Object and/or Commands and Queries
+      Automaper -> <b>Mapper entity to Data Transfer Object and/or Commands and Queries</b>
       Commands ->
       DependencyInjection ->
       DTOs ->
