@@ -36,12 +36,12 @@ Project from my studies about clean architeture using MediatR and FluentValidati
 
   Application:
     
-    Automaper -> 
-    Commands ->
-    DependencyInjection ->
-    DTOs ->
-    ExceptonStrategy ->
-    Interfaces ->
-    Pipelines ->
-    Queries ->
-    Validations ->
+      Automaper -> Mapper entity to Data Transfer Object and/or Commands and Queries
+      Commands ->
+      DependencyInjection ->
+      DTOs ->
+      ExceptonStrategy ->
+      Interfaces ->
+      Pipelines ->
+      Queries ->
+      Validations ->
